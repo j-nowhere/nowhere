@@ -1,29 +1,29 @@
 body{
 	background-color: yellow;
 }
-h1{
+	h1{
 	color: blue;
 	font-size: 90px;
 	text-decoration: underline;
 }
 
-h2{
+	h2{
 	color: green;
 	font-size: 45px;
 }
 
-#first{
+	#first{
 	font-size: 175px
 }
 
-.small{
+	.small{
 		font-size: 12px;
 	}
 
-span{
+	span{
 	font-style: italic;
 }
 
-h2 span{
+	h2 span{
 	text-decoration: line-through;
 }
