@@ -16,14 +16,14 @@ h2{
 	font-size: 175px
 }
 
-	.small{
+.small{
 		font-size: 12px;
 	}
 
-	span{
-		font-style: italic;
-	}
+span{
+	font-style: italic;
+}
 
-	h2 span{
-		text-decoration: line-through;
-	}
+h2 span{
+	text-decoration: line-through;
+}
